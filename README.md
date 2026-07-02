@@ -16,38 +16,35 @@
 ---
 
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-**Languages & Core Tools**
-<img src="https://skillicons.dev/icons?i=py,mysql,git,github,vscode" />
+<div align="center">
 
-**Data, BI & ML**
+### Languages
+<img src="https://skillicons.dev/icons?i=python,mysql,php" />
+
+### Data Analytics
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://skillicons.dev/icons?i=sklearn" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
-**Backend**
-<img src="https://skillicons.dev/icons?i=php,fastapi,mongodb" />
+### Development
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,fastapi" />
 
-**Exploring — MLOps**
-<img src="https://skillicons.dev/icons?i=docker,githubactions" />
+</div>
 
 ---
+## 😂 Programmer Mood
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MhdRakasiwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdRakasiwi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/cat-computer.gif">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MhdRakasiwi&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MhdRakasiwi&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10"/>
-</p>
+> **Me:** "I'll finish this project today."
+>
+> **Also me:** *Spends 3 hours debugging one missing semicolon.* 😂
 
 ---
 
@@ -74,9 +71,9 @@ class Rakasiwi:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:muhammadrakasw@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/muhammadrakasiwi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://instagram.com/mhdraka_s"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 <p align="center">📍 Based in Indonesia · Open to remote opportunities</p>

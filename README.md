@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Fresh+Graduate+in+Information+Systems;Aspiring+Data+Analyst;Turning+Raw+Data+into+Decisions;Python%2C+SQL%2C+Power+BI%2C+Excel;Always+Learning%2C+Always+Building" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=00C2FF&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Open%20to-Internship%20%7C%20Entry--Level-6C63FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%7C%20Data%20Science-00C2FF?style=flat-square"/>
   <img src="https://img.shields.io/badge/Location-Indonesia-000000?style=flat-square&logo=googlemaps&logoColor=white"/>

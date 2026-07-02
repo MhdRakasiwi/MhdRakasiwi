@@ -15,39 +15,6 @@
 
 ---
 
-### 🎓 About Me
-
-- 🎓 Fresh Graduate in **Information Systems** (GPA 3.84/4.00) — Universitas Putra Indonesia "YPTK" Padang
-- 🔭 Currently seeking **Internship / Entry-Level** roles in **Data Analytics** & **Data Science**
-- 🧩 Core focus: data management, decision support systems & structured data handling
-- 🧹 Cleaned & structured 500+ rows of real-world transportation data during a Data Entry Internship at Dinas Perhubungan
-- 🧠 Building AI Engineering skills through the **PIJAK x IBM SkillsBuild** Learning Path
-- 🤝 Active member of **UKM-IT Cybernetix**, Programming Division
-- 💬 Ask me about: SQL, data cleaning, dashboards, or decision support systems
-
----
-
-### 🚀 Featured Projects
-
-**🔎 StackMatch**
-Hybrid Stack Overflow recommendation engine combining TF-IDF, SBERT & Score Fusion to search 50,000+ posts, served through a FastAPI + MongoDB backend.
-`Python` `FastAPI` `MongoDB` `NLP`
-
-**🎖️ SIPASKA** — *Undergraduate Thesis*
-Web-based Decision Support System using the SAW method to support Paskibraka member selection.
-`PHP` `MySQL` `SAW Method`
-
-**📊 Sales Performance Dashboard**
-Interactive Excel dashboard with PivotTables & slicers for e-commerce sales analysis, built in the Karirnex Excel Bootcamp 2025.
-`Excel` `PivotTable` `Data Visualization`
-
-**⚙️ ML CI/CD Pipeline**
-End-to-end ML systems project automating experiment tracking & deployment with MLflow and GitHub Actions.
-`MLflow` `GitHub Actions` `MLOps`
-
-> 💡 Add a repo link to each project title once it's pushed — that's usually the first thing recruiters click.
-
----
 
 ### 🛠 Tech Stack
 
@@ -70,16 +37,16 @@ End-to-end ML systems project automating experiment tracking & deployment with M
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MhdRakasiwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdRakasiwi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=MhdRakasiwi&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MhdRakasiwi&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10"/>
 </p>
 
 ---
